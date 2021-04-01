@@ -11,6 +11,6 @@ This was the first step to analyzing the data and start my analysis for my Messi
 
 Make sure to run the files in the following order:
 
-1. Messi.py or Roanldo.py (Scrapy python code to scrape FBREF)
+1. messi.py or ronaldo.py (Scrapy python code to scrape FBREF)
 
 2. data_cleaner.py(Cleans data that is scraped)
