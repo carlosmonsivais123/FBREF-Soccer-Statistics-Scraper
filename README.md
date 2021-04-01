@@ -13,4 +13,4 @@ Make sure to run the files in the following order:
 
 1. messi.py or ronaldo.py (Scrapy python code to scrape FBREF)
 
-2. data_cleaner.py(Cleans data that is scraped)
+2. data_cleaner.py (Cleans data that is scraped)
