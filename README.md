@@ -2,6 +2,7 @@
 
 Used Python's Scrapy to extract data from a soccer statistics website where I scrapped the profiles from Lionel Messi and Cristiano Ronaldo at the following links
 using ethical web scrapping practices:
+
 Lionel Messi: https://fbref.com/en/players/d70ce98e/all_comps/Lionel-Messi-Stats---All-Competitions
 Cristiano Ronaldo: https://fbref.com/en/players/dea698d9/all_comps/Cristiano-Ronaldo-Stats---All-Competitions
 
